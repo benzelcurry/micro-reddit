@@ -1,24 +1,5 @@
-# README
+# Micro-Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a very simple micro-reddit app built for The Odin Project's Ruby on Rails curriculum.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+You can use the Rails console to generate Users, Posts, and Comments. The purpose of this app is to gain familiarity with Active Record, migrations, and associations.
